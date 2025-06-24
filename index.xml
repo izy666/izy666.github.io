@@ -14,7 +14,12 @@
       <title>Nature</title>
       <link>https://example.org/nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>coffeefor@163.com (Your Name)</author>
-      <guid>https://example.org/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
+      <guid>https://example.org/nature/</guid>
+        <media:content url="https://example.org/nature/000007_hu_b58f71dbd38c28b0.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/nature/000007_hu_b58f71dbd38c28b0.jpg&quot; /&gt;
+          &lt;p&gt;Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
+        </description></item>
     <item>
       <title></title>
       <link>https://example.org/nanjing/</link>
