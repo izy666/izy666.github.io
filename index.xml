@@ -24,6 +24,11 @@
       <title></title>
       <link>https://example.org/nanjing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>coffeefor@163.com (Your Name)</author>
-      <guid>https://example.org/nanjing/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://example.org/nanjing/</guid>
+        <media:content url="https://example.org/nanjing/000009_hu_dfb3601dbcca9312.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/nanjing/000009_hu_dfb3601dbcca9312.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>
