@@ -12,7 +12,5 @@
     <loc>https://example.org/about/</loc>
   </url><url>
     <loc>https://example.org/imprint/</loc>
-  </url><url>
-    <loc>https://example.org/test/</loc>
   </url>
 </urlset>

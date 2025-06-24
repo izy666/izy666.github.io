@@ -25,10 +25,5 @@
       <link>https://example.org/nanjing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>coffeefor@163.com (Your Name)</author>
       <guid>https://example.org/nanjing/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title>Test</title>
-      <link>https://example.org/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>coffeefor@163.com (Your Name)</author>
-      <guid>https://example.org/test/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
