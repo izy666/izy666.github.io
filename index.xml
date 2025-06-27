@@ -44,7 +44,12 @@
       <title></title>
       <link>https://example.org/%E5%A4%A9%E7%A9%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>coffeefor@163.com (IZY)</author>
-      <guid>https://example.org/%E5%A4%A9%E7%A9%BA/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://example.org/%E5%A4%A9%E7%A9%BA/</guid>
+        <media:content url="https://example.org/%E5%A4%A9%E7%A9%BA/DJI_0165_hu_66d5ec7273b5a015.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/%E5%A4%A9%E7%A9%BA/DJI_0165_hu_66d5ec7273b5a015.jpeg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
     <item>
       <title>HuangShan</title>
       <link>https://example.org/%E9%BB%84%E5%B1%B1/</link>
