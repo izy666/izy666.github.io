@@ -44,7 +44,12 @@
       <title></title>
       <link>https://example.org/%E5%8F%B0%E6%B9%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>coffeefor@163.com (IZY)</author>
-      <guid>https://example.org/%E5%8F%B0%E6%B9%BE/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://example.org/%E5%8F%B0%E6%B9%BE/</guid>
+        <media:content url="https://example.org/%E5%8F%B0%E6%B9%BE/DSCF0823_hu_b2f2505348bc5510.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/%E5%8F%B0%E6%B9%BE/DSCF0823_hu_b2f2505348bc5510.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
     <item>
       <title></title>
       <link>https://example.org/%E5%A4%A9%E7%A9%BA/</link>
